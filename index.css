@@ -2,7 +2,7 @@
 body{
 	padding: 0;
 	margin: 0;
-	background: url(/001.jpg) no-repeat;
+	background: url(001.jpg) no-repeat;
 	background-size: 100% 100% ;
 }
 html{
@@ -14,7 +14,7 @@ html{
 div#mis{
 	width: 200px;
 	height: 200px;
-	background: url(/001.jpg) no-repeat;
+	background: url(001.jpg) no-repeat;
 	background-size:197px 197px ;
 	border: dashed 2px red;
 	position:relative;
@@ -58,7 +58,7 @@ div#mis{
 }
 #wx{
 	width: 100%;
-	height: 1000px;
+	height: 900px;
 	margin-top: 90px;
 }
 img{
